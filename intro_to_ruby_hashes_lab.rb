@@ -28,9 +28,9 @@ def monopoly_with_third_tier
       pieces: 4,
       rent_in_dollars: 
         {
-          rent1: "4"
-          rent2: "3"
-          rent3: "2"
+          rent1: "4",
+          rent2: "3",
+          rent3: "2",
           rent4: "1"
         }
         
