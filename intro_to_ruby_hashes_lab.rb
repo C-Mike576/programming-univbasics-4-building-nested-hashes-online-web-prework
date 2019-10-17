@@ -11,18 +11,7 @@ def monopoly_with_second_tier
   # they'll guide you in how to modify what you just did to have more
   # complexity.
   
-  monopoly = {railroads: {pieces: 4}}
-
-
-end
-
-def monopoly_with_third_tier
-  # When you start writing the implementation for this method, copy the Hash
-  # you built in the previous method. Run the tests. They will fail, but
-  # they'll guide you in how to modify what you just did to have more
-  # complexity.
-  
-  monopoly = {
+    monopoly = {
     railroads: 
     {
       pieces: 4,
@@ -34,7 +23,7 @@ def monopoly_with_third_tier
           four_pieces_owned: 200
         },
       names: {
-        name1: "5",
+        reading_railroad: {},
         name2: "6",
         name3: "7",
         name4: "8"
@@ -43,6 +32,17 @@ def monopoly_with_third_tier
     }
   }
   
+
+
+end
+
+def monopoly_with_third_tier
+  # When you start writing the implementation for this method, copy the Hash
+  # you built in the previous method. Run the tests. They will fail, but
+  # they'll guide you in how to modify what you just did to have more
+  # complexity.
+  
+
   
 end
 
