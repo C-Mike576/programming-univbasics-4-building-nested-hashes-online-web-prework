@@ -29,7 +29,7 @@ def monopoly_with_third_tier
       rent_in_dollars: 
         {
           one_piece_owned: 25,
-          rent2: "3",
+          two_pieces_owned: 50,
           rent3: "2",
           rent4: "1"
         },
