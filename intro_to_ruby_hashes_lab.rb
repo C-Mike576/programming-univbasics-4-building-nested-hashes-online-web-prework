@@ -32,7 +32,8 @@ def monopoly_with_third_tier
           rent2: "3",
           rent3: "2",
           rent4: "1"
-        }
+        },
+      names: {}
         
     }
   }
